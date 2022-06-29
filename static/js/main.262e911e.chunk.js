@@ -4,7 +4,7 @@
       e.exports = JSON.parse('[{"constant":true,"inputs":[],"name":"name","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_spender","type":"address"},{"name":"_value","type":"uint256"}],"name":"approve","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"totalSupply","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_from","type":"address"},{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transferFrom","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"decimals","outputs":[{"name":"","type":"uint8"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"balanceOf","outputs":[{"name":"balance","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"symbol","outputs":[{"name":"","type":"string"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":false,"inputs":[{"name":"_to","type":"address"},{"name":"_value","type":"uint256"}],"name":"transfer","outputs":[{"name":"","type":"bool"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[{"name":"_owner","type":"address"},{"name":"_spender","type":"address"}],"name":"allowance","outputs":[{"name":"","type":"uint256"}],"payable":false,"stateMutability":"view","type":"function"},{"payable":true,"stateMutability":"payable","type":"fallback"},{"anonymous":false,"inputs":[{"indexed":true,"name":"owner","type":"address"},{"indexed":true,"name":"spender","type":"address"},{"indexed":false,"name":"value","type":"uint256"}],"name":"Approval","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"name":"from","type":"address"},{"indexed":true,"name":"to","type":"address"},{"indexed":false,"name":"value","type":"uint256"}],"name":"Transfer","type":"event"}]')
     },
     154: function(e) {
-      e.exports = JSON.parse('{"name":"PancakeSwap Default List","timestamp":"2021-03-17T09:56:23Z","version":{"major":2,"minor":1,"patch":0},"tags":{},"logoURI":"https://exchange.pancakeswap.finance/images/pancakeswap.png","keywords":["pancake","default"],"tokens":[{"name":"WBNB Token","symbol":"WBNB","address":"0xae13d989dac2f0debff460ac112a837c89baa7cd","chainId":1337,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0xae13d989dac2f0debff460ac112a837c89baa7cd.png"},{"name":"BUSD Token","symbol":"BUSD","address":"0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7","chainId":1337,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0x78867bbeef44f2326bf8ddd1941a4439382ef2a7.png"},{"name":"USDT Token","symbol":"USDT","address":"0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684","chainId":1337,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684.png"},{"name":"ETH Token","symbol":"ETH","address":"0x8babbb98678facc7342735486c851abd7a0d17ca","chainId":1337,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0x8babbb98678facc7342735486c851abd7a0d17ca.png"},{"name":"DAI Token","symbol":"DAI","address":"0x8a9424745056Eb399FD19a0EC26A14316684e274","chainId":1337,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images//coins/0x8a9424745056eb399fd19a0ec26a14316684e274.png"},{"name":"CAKE Token","symbol":"CAKE","address":"0xF9f93cF501BFaDB6494589Cb4b4C15dE49E85D0e","chainId":1337,"decimals":9,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0xf9f93cf501bfadb6494589cb4b4c15de49e85d0e.png"},{"name":"Safemoon Token","symbol":"SAFEMOON","address":"0xDAcbdeCc2992a63390d108e8507B98c7E2B5584a","chainId":1337,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0xdacbdecc2992a63390d108e8507b98c7e2b5584a.png"}]}')
+      e.exports = JSON.parse('{"name":"PancakeSwap Default List","timestamp":"2021-03-17T09:56:23Z","version":{"major":2,"minor":1,"patch":0},"tags":{},"logoURI":"https://exchange.pancakeswap.finance/images/pancakeswap.png","keywords":["pancake","default"],"tokens":[{"name":"WBNB Token","symbol":"WBNB","address":"0xae13d989dac2f0debff460ac112a837c89baa7cd","chainId":97,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0xae13d989dac2f0debff460ac112a837c89baa7cd.png"},{"name":"BUSD Token","symbol":"BUSD","address":"0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7","chainId":97,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0x78867bbeef44f2326bf8ddd1941a4439382ef2a7.png"},{"name":"USDT Token","symbol":"USDT","address":"0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684","chainId":97,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684.png"},{"name":"ETH Token","symbol":"ETH","address":"0x8babbb98678facc7342735486c851abd7a0d17ca","chainId":97,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0x8babbb98678facc7342735486c851abd7a0d17ca.png"},{"name":"DAI Token","symbol":"DAI","address":"0x8a9424745056Eb399FD19a0EC26A14316684e274","chainId":97,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images//coins/0x8a9424745056eb399fd19a0ec26a14316684e274.png"},{"name":"CAKE Token","symbol":"CAKE","address":"0xF9f93cF501BFaDB6494589Cb4b4C15dE49E85D0e","chainId":97,"decimals":9,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0xf9f93cf501bfadb6494589cb4b4c15de49e85d0e.png"},{"name":"Safemoon Token","symbol":"SAFEMOON","address":"0xDAcbdeCc2992a63390d108e8507B98c7E2B5584a","chainId":97,"decimals":18,"logoURI":"https://pancake.kiemtienonline360.com/images/coins/0xdacbdecc2992a63390d108e8507b98c7e2b5584a.png"}]}')
     },
     248: function(e) {
       e.exports = JSON.parse('[{"constant":true,"inputs":[],"name":"name","outputs":[{"name":"","type":"bytes32"}],"payable":false,"stateMutability":"view","type":"function"},{"constant":true,"inputs":[],"name":"symbol","outputs":[{"name":"","type":"bytes32"}],"payable":false,"stateMutability":"view","type":"function"}]')
@@ -287,15 +287,15 @@
           }]), n
         }(B.AbstractConnector),
         Y = "https://data-seed-prebsc-1-s1.binance.org:8545",
-        z = parseInt(null !== "1337" ? "1337" : "56");
+        z = parseInt(null !== "97" ? "97" : "56");
       var F, q = new _({
         urls: Object(C.a)({}, z, Y)
       });
       var V, W = new k.a({
-          supportedChainIds: [1337]
+          supportedChainIds: [97]
         }),
         H = new E.BscConnector({
-          supportedChainIds: [1337]
+          supportedChainIds: [97]
         }),
         Q = new T.b({
           rpc: Object(C.a)({}, z, Y),
@@ -8041,7 +8041,7 @@
             WDS_SOCKET_PATH: void 0,
             WDS_SOCKET_PORT: void 0,
             FAST_REFRESH: !0,
-            REACT_APP_CHAIN_ID: 1337,
+            REACT_APP_CHAIN_ID: "97",
             REACT_APP_GTAG: "GTM-PXLD3XW",
             REACT_APP_NETWORK_URL: "https://data-seed-prebsc-1-s1.binance.org:8545"
           }).REACT_APP_CROWDIN_APIKEY),
@@ -8052,7 +8052,7 @@
             WDS_SOCKET_PATH: void 0,
             WDS_SOCKET_PORT: void 0,
             FAST_REFRESH: !0,
-            REACT_APP_CHAIN_ID: "1337",
+            REACT_APP_CHAIN_ID: "97",
             REACT_APP_GTAG: "GTM-PXLD3XW",
             REACT_APP_NETWORK_URL: "https://data-seed-prebsc-1-s1.binance.org:8545"
           }).REACT_APP_CROWDIN_PROJECTID)),
