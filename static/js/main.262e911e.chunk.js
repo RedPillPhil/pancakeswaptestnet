@@ -528,7 +528,7 @@
       }
       var ft = {
         56: "",
-        1337: "testnet."
+        97: "testnet."
       };
 
       function ht(e, t, n) {
