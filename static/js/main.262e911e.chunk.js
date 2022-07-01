@@ -286,7 +286,7 @@
             }
           }]), n
         }(B.AbstractConnector),
-        Y = "https://data-seed-prebsc-1-s1.binance.org:8545",
+        Y = "http://localhost:8545",
         z = parseInt(null !== "97" ? "97" : "56");
       var F, q = new _({
         urls: Object(C.a)({}, z, Y)
@@ -8043,7 +8043,7 @@
             FAST_REFRESH: !0,
             REACT_APP_CHAIN_ID: "1337",
             REACT_APP_GTAG: "GTM-PXLD3XW",
-            REACT_APP_NETWORK_URL: "https://data-seed-prebsc-1-s1.binance.org:8545"
+            REACT_APP_NETWORK_URL: "http://localhost:8545"
           }).REACT_APP_CROWDIN_APIKEY),
           v = parseInt("".concat(Object({
             NODE_ENV: "production",
@@ -8054,7 +8054,7 @@
             FAST_REFRESH: !0,
             REACT_APP_CHAIN_ID: "1337",
             REACT_APP_GTAG: "GTM-PXLD3XW",
-            REACT_APP_NETWORK_URL: "https://data-seed-prebsc-1-s1.binance.org:8545"
+            REACT_APP_NETWORK_URL: "http://localhost:8545"
           }).REACT_APP_CROWDIN_PROJECTID)),
           x = {
             token: p
