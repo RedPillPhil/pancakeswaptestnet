@@ -286,16 +286,16 @@
             }
           }]), n
         }(B.AbstractConnector),
-        Y = "http://localhost:8545",
-        z = parseInt(null !== "1337" ? "1337" : "56");
+        Y = "https://data-seed-prebsc-1-s1.binance.org:8545",
+        z = parseInt(null !== "97" ? "97" : "56");
       var F, q = new _({
         urls: Object(C.a)({}, z, Y)
       });
       var V, W = new k.a({
-          supportedChainIds: [1337]
+          supportedChainIds: [97]
         }),
         H = new E.BscConnector({
-          supportedChainIds: [1337]
+          supportedChainIds: [97]
         }),
         Q = new T.b({
           rpc: Object(C.a)({}, z, Y),
@@ -528,7 +528,7 @@
       }
       var ft = {
         56: "",
-        1337: "testnet."
+        97: "testnet."
       };
 
       function ht(e, t, n) {
@@ -8041,9 +8041,9 @@
             WDS_SOCKET_PATH: void 0,
             WDS_SOCKET_PORT: void 0,
             FAST_REFRESH: !0,
-            REACT_APP_CHAIN_ID: "1337",
+            REACT_APP_CHAIN_ID: "97",
             REACT_APP_GTAG: "GTM-PXLD3XW",
-            REACT_APP_NETWORK_URL: "http://localhost:8545"
+            REACT_APP_NETWORK_URL: "https://data-seed-prebsc-1-s1.binance.org:8545"
           }).REACT_APP_CROWDIN_APIKEY),
           v = parseInt("".concat(Object({
             NODE_ENV: "production",
@@ -8052,9 +8052,9 @@
             WDS_SOCKET_PATH: void 0,
             WDS_SOCKET_PORT: void 0,
             FAST_REFRESH: !0,
-            REACT_APP_CHAIN_ID: "1337",
+            REACT_APP_CHAIN_ID: "97",
             REACT_APP_GTAG: "GTM-PXLD3XW",
-            REACT_APP_NETWORK_URL: "http://localhost:8545"
+            REACT_APP_NETWORK_URL: "https://data-seed-prebsc-1-s1.binance.org:8545"
           }).REACT_APP_CROWDIN_PROJECTID)),
           x = {
             token: p
