@@ -788,7 +788,7 @@
           stroke: r
         }, a), {}, {
           children: Object(it.jsx)("path", {
-            d: "M12 2C6.47715 3534",
+            d: "M12 2C6.",
             strokeWidth: "2.5",
             strokeLinecap: "round",
             strokeLinejoin: "round"
