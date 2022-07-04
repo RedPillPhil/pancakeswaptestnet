@@ -2022,7 +2022,7 @@
           return e.size
         })),
         fi = function(e) {
-          return "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/".concat(e, "/logo.png")
+          return "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/".concat(e, "/logo7.png")
         },
         hi = d.default.img(di || (di = Object(u.a)(["\n  width: ", ";\n  height: ", ";\n  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.075);\n  border-radius: 24px;\n"])), (function(e) {
           return e.size
