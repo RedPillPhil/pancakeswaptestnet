@@ -1002,7 +1002,7 @@
                 children: "Waiting for confirmation"
               }), Object(it.jsx)(Ln, {
                 children: Object(it.jsx)(zn, {
-                  src: "/images/blue-loader.svg",
+                  src: "/images/bluedfgoader.svg",
                   alt: "loader",
                   size: "90px"
                 })
@@ -2022,7 +2022,7 @@
           return e.size
         })),
         fi = function(e) {
-          return "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/".concat(e, "/logo7.png")
+          return "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/".concat(e, "/logo17.png")
         },
         hi = d.default.img(di || (di = Object(u.a)(["\n  width: ", ";\n  height: ", ";\n  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.075);\n  border-radius: 24px;\n"])), (function(e) {
           return e.size
@@ -8012,7 +8012,7 @@
           }, e))
         },
         kd = d.default.div(od || (od = Object(u.a)(["\n  display: flex;\n  flex-flow: column;\n  align-items: flex-start;\n  overflow-x: hidden;\n"]))),
-        Td = d.default.div(sd || (sd = Object(u.a)(["\n  display: flex;\n  flex-direction: column;\n  width: 100%;\n  padding: 32px 16px;\n  align-items: center;\n  flex: 1;\n  overflow-y: auto;\n  overflow-x: hidden;\n  z-index: 1;\n  justify-content: center;\n  background-image: url('/images/group-pancake.svg');\n  background-repeat: no-repeat;\n  background-position: bottom 24px center;\n  background-size: 90%;\n\n  ", " {\n    background-size: auto;\n  }\n\n  ", " {\n    background-image: url('/images/arch-", ".svg'),\n      url('/images/left-pancake.svg'), url('/images/right-pancake.svg');\n    background-repeat: no-repeat;\n    background-position: center 420px, 10% 230px, 90% 230px;\n    background-size: contain, 266px, 266px;\n    min-height: 90vh;\n  }\n"])), (function(e) {
+        Td = d.default.div(sd || (sd = Object(u.a)(["\n  display: flex;\n  flex-direction: column;\n  width: 100%;\n  padding: 32px 16px;\n  align-items: center;\n  flex: 1;\n  overflow-y: auto;\n  overflow-x: hidden;\n  z-index: 1;\n  justify-content: center;\n  background-image: url('/images/group-pagfdgfdcake.svg');\n  background-repeat: no-repeat;\n  background-position: bottom 24px center;\n  background-size: 90%;\n\n  ", " {\n    background-size: auto;\n  }\n\n  ", " {\n    background-image: url('/images/arch-", ".svg'),\n      url('/images/left-pafdncake.svg'), url('/images/right-pancake.svg');\n    background-repeat: no-repeat;\n    background-position: center 420px, 10% 230px, 90% 230px;\n    background-size: contain, 266px, 266px;\n    min-height: 90vh;\n  }\n"])), (function(e) {
           return e.theme.mediaQueries.xs
         }), (function(e) {
           return e.theme.mediaQueries.lg
