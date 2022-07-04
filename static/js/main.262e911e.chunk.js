@@ -788,7 +788,7 @@
           stroke: r
         }, a), {}, {
           children: Object(it.jsx)("path", {
-            d: "M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 9.27455 20.9097 6.80375 19.1414 5",
+            d: "M12 2C6.47715 3534",
             strokeWidth: "2.5",
             strokeLinecap: "round",
             strokeLinejoin: "round"
@@ -7964,9 +7964,9 @@
           }), [a, r]), n
         },
         Cd = [{
-          label: "Pancake BSC Testnet",
+          label: "MartianSwap BSC Testnet",
           icon: "HomeIcon",
-          href: "https://pancake.kiemtienonline360.com"
+          href: "https://classy-muffin-3c480c.netlify.app/#/swap"
         }, {
           label: "Trade",
           icon: "TradeIcon",
@@ -7979,9 +7979,9 @@
             href: "/pool"
           }]
         }, {
-          label: "AMMs on Testnet",
+          label: "Change this to Something",
           icon: "InfoIcon",
-          href: "https://amm.kiemtienonline360.com"
+          href: "https://espn.com"
         }],
         wd = function(e) {
           var t = Object(x.d)().account,
