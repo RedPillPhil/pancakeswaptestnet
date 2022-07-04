@@ -781,7 +781,7 @@
           r = e.stroke,
           a = Object(It.a)(e, ["size", "stroke"]);
         return Object(it.jsx)(an, Object(X.a)(Object(X.a)({
-          viewBox: "0 0 24 24",
+          viewBox: "0 0 240 24",
           fill: "none",
           xmlns: "http://www.w3.org/2000/svg",
           size: n,
@@ -790,8 +790,8 @@
           children: Object(it.jsx)("path", {
             d: "M12 2C6.",
             strokeWidth: "2.5",
-            strokeLinecap: "round",
-            strokeLinejoin: "round"
+            strokeLinecap: "square",
+            strokeLinejoin: "square"
           })
         }))
       }
