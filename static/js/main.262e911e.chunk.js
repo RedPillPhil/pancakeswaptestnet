@@ -1879,7 +1879,7 @@
           return e.theme.colors.invertedContrast
         }), (function(e) {
           return e.theme.colors.tertiary
-        }), Object(In.b)(.9, "#2F80ED"), (function(e) {
+        }), Object(In.b)(.9, "#ffffff"), (function(e) {
           return e.theme.colors.textSubtle
         })),
         ti = d.default.div(Ka || (Ka = Object(u.a)(["\n  display: inline-block;\n"]))),
