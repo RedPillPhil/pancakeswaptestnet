@@ -765,7 +765,7 @@
       }
       var $t, Zt, en, tn, nn = n(113),
         rn = Object(d.keyframes)($t || ($t = Object(u.a)(["\n  from {\n    transform: rotate(0deg);\n  }\n  to {\n    transform: rotate(360deg);\n  }\n"]))),
-        an = d.default.svg(Zt || (Zt = Object(u.a)(["\n  animation: 2s ", " linear infinite;\n  height: ", ";\n  width: ", ";\n  path {\n    stroke: ", ";\n  }\n"])), rn, (function(e) {
+        an = d.default.svg(Zt || (Zt = Object(u.a)(["\n  animation: 12s ", " linear infinite;\n  height: ", ";\n  width: ", ";\n  path {\n    stroke: ", ";\n  }\n"])), rn, (function(e) {
           return e.size
         }), (function(e) {
           return e.size
