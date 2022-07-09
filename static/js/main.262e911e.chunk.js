@@ -311,7 +311,7 @@
         G = n(27),
         X = n(13),
         J = n(6),
-        $ = "0xd4CC6B48b924A21fD1FE36c530f2181298105A58",
+        $ = "0xB94A799B2fB149e9E28891252621Fd14739fB7b9",
         Z = J.a.BSCTESTNET,
         ee = new J.j(Z, "0x8a9424745056Eb399FD19a0EC26A14316684e274", 18, "DAI", "Dai Stablecoin"),
         te = new J.j(Z, "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7", 18, "BUSD", "Binance USD"),
@@ -4029,7 +4029,7 @@
           console.info('Failed to parse input amount: "'.concat(e, '"'), r)
         }
       }
-      var Es = ["0xb7926c0430afb07aa7defde6da862ae0bde767bc", "0xd4CC6B48b924A21fD1FE36c530f2181298105A58", "0xd4CC6B48b924A21fD1FE36c530f2181298105A58"];
+      var Es = ["0xb7926c0430afb07aa7defde6da862ae0bde767bc", "0xB94A799B2fB149e9E28891252621Fd14739fB7b9", "0xB94A799B2fB149e9E28891252621Fd14739fB7b9"];
 
       function Ns(e, t) {
         return e.route.path.some((function(e) {
