@@ -292,10 +292,10 @@
         urls: Object(C.a)({}, z, Y)
       });
       var V, W = new k.a({
-          supportedChainIds: [97]
+          supportedChainIds: [56]
         }),
         H = new E.BscConnector({
-          supportedChainIds: [97]
+          supportedChainIds: [56]
         }),
         Q = new T.b({
           rpc: Object(C.a)({}, z, Y),
