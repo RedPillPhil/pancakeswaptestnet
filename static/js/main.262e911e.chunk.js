@@ -311,7 +311,7 @@
         G = n(27),
         X = n(13),
         J = n(6),
-        $ = "0x1Bf4Bb23031b69Add0F6df5a1Ddf2Bb79C369266",
+        $ = "0x794917A7F0Fb2D80a6e22697cc0F490508a4aace",
         Z = J.a.BSCTESTNET,
         ee = new J.j(Z, "0x8a9424745056Eb399FD19a0EC26A14316684e274", 18, "DAI", "Dai Stablecoin"),
         te = new J.j(Z, "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7", 18, "BUSD", "Binance USD"),
